@@ -140,5 +140,5 @@ cython_debug/
 .idea
 
 token.json
-
+google-credentials.json
 credentials.json
